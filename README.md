@@ -1,0 +1,3 @@
+# MongoDB Learning Repository
+
+Welcome to the **MongoDB Learning Repository** by **Kanishka Anand**! This repository is a dedicated resource for learning and mastering MongoDB, a leading NoSQL database. Through this repository, you'll explore the fundamentals of MongoDB, including CRUD operations, indexing, aggregation, and schema design. It also covers best practices and real-world use cases, providing a solid foundation to integrate MongoDB into your applications effectively. Whether you're a beginner or looking to enhance your expertise, this repository is your guide to becoming proficient in MongoDB.
